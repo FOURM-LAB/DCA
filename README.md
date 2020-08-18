@@ -11,7 +11,7 @@ We recommended the following dependencies.
 ## How to use the code
 
 ## Reference
-If you find this paper or code helpful, please cite this paper:
+If you find this paper or code helpful, please cite this paper:<br/>
 &nbsp;&nbsp;@ inproceedings{liang2020imporved,  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; title={Improved Trainable Calibration Method for Neural Networks on Medical Imaging Classification},  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; author={Liang, Gongbo and Zhang, Yu and Wang, Xiaoqin and Jacobs, Nathan},  
