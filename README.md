@@ -1,7 +1,7 @@
 # Improved Trainable Calibration Method for Neural Networks on Medical Imaging Classification
 
 ## Introduction
-This repository contains the source code of ***Improved Trainable Calibration Method for Neural Networks on Medical Imaging Classification*** ([project site](http://www.gb-liang.com/dca.html)), which is accepted by [BMVC2020](https://bmvc2020.github.io). 
+This repository contains the source code and demonstration of ***Improved Trainable Calibration Method for Neural Networks on Medical Imaging Classification*** ([project site](http://www.gb-liang.com/dca.html)), which is accepted by [BMVC2020](https://bmvc2020.github.io). 
 
 In this work, we propose to use DCA as an auxiliary loss term for classification network calibration. DCA integrates network calibration into the classification training stage. Thus, no explicit training round for calibration is required. 
 
@@ -9,8 +9,6 @@ In this work, we propose to use DCA as an auxiliary loss term for classification
 We recommended the following dependencies.
 - Python 3.7
 - [PyTorch](https://pytorch.org) 1.4
-
-## How to use the code
 
 ## Reference
 If you find this paper or code helpful, please cite this paper:
