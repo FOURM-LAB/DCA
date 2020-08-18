@@ -11,12 +11,13 @@ We recommended the following dependencies.
 ## How to use the code
 
 ## Reference
-@inproceedings{liang2020imporved,  
+If you find this paper or code helpful, please cite this paper:
+&nbsp;&nbsp;@ inproceedings{liang2020imporved,  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; title={Improved Trainable Calibration Method for Neural Networks on Medical Imaging Classification},  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; author={Liang, Gongbo and Zhang, Yu and Wang, Xiaoqin and Jacobs, Nathan},  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; booktitle={British Machine Vision Conference (BMVC)},  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; year={2020} <br/>
-}
+&nbsp;&nbsp; }
 
 ## Permission
 The code is provided for academic purposes only without any guarantees.
