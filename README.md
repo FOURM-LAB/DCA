@@ -27,7 +27,7 @@ If you find this paper or code helpful, please cite this paper:
 }
 
 ## Acknowledgements and Disclaimers
-*The code is provided for academic purposes only without any guarantees.* <br\>
-*The Mendeley V2 dataset can be downloaded [here](https://www.kaggle.com/andrewmvd/pediatric-pneumonia-chest-xray).* <br\>
+*The code is provided for academic purposes only without any guarantees.* <br />
+*The Mendeley V2 dataset can be downloaded [here](https://www.kaggle.com/andrewmvd/pediatric-pneumonia-chest-xray).* <br \>
 *Part of the codes that is used in this repo. is based on [temperature_scaling](https://github.com/gpleiss/temperature_scaling)* <br\>
 *For more detail of temperature scaling, pleae visit their [project page](https://geoffpleiss.com/nn_calibration)* <br\>
