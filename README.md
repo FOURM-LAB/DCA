@@ -15,10 +15,6 @@ We recommended the following dependencies.
 - *[loss_fn.py](./loss_fn.py)* defines the proposed classificaiton loss, i.e., cross-entropy loss + DCA auxiliary loss
 - *[demo_uncalibrated.ipynb](./demo_uncalibrated.ipynb)* shows a demonstartion of the uncalibrated method using the AlexNet backbone and Mendeley V2.
 
-*The Mendeley V2 dataset can be downloaded [here](https://www.kaggle.com/andrewmvd/pediatric-pneumonia-chest-xray).*
-*Part of the codes that is used in this repo. is based on [temperature_scaling](https://github.com/gpleiss/temperature_scaling)*
-*For more detail of temperature scaling, pleae visit their [project page](https://geoffpleiss.com/nn_calibration)*
-
 ## Reference
 If you find this paper or code helpful, please cite this paper:
 <br/> 
@@ -30,5 +26,8 @@ If you find this paper or code helpful, please cite this paper:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; year={2020} <br/>
 }
 
-## Permission
-The code is provided for academic purposes only without any guarantees.
+## Acknowledgements and Disclaimers
+*The code is provided for academic purposes only without any guarantees.* <br\>
+*The Mendeley V2 dataset can be downloaded [here](https://www.kaggle.com/andrewmvd/pediatric-pneumonia-chest-xray).* <br\>
+*Part of the codes that is used in this repo. is based on [temperature_scaling](https://github.com/gpleiss/temperature_scaling)* <br\>
+*For more detail of temperature scaling, pleae visit their [project page](https://geoffpleiss.com/nn_calibration)* <br\>
