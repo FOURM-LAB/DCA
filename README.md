@@ -11,9 +11,13 @@ We recommended the following dependencies.
 - [PyTorch](https://pytorch.org) 1.4
 
 ## Code
-- *[demo_dca.ipynb](./demo_dca.ipynb)* shows a demonstartion of the proposed method using the AlexNet backbone and [Mendeley V2 dataset](https://www.kaggle.com/andrewmvd/pediatric-pneumonia-chest-xray). The network is trained with the proposed loss.
+- *[demo_dca.ipynb](./demo_dca.ipynb)* shows a demonstartion of the proposed method using the AlexNet backbone and Mendeley V2. 
 - *[loss_fn.py](./loss_fn.py)* defines the proposed classificaiton loss, i.e., cross-entropy loss + DCA auxiliary loss
-- *[demo_uncalibrated.ipynb](./demo_uncalibrated.ipynb)* shows a demonstartion of the uncalibrated method using the AlexNet backbone and [Mendeley V2 dataset](https://www.kaggle.com/andrewmvd/pediatric-pneumonia-chest-xray). The network is trained using cross-entropy loss only.
+- *[demo_uncalibrated.ipynb](./demo_uncalibrated.ipynb)* shows a demonstartion of the uncalibrated method using the AlexNet backbone and Mendeley V2.
+
+*The Mendeley V2 dataset can be downloaded [here](https://www.kaggle.com/andrewmvd/pediatric-pneumonia-chest-xray).*
+*Part of the codes that is used in this repo. is based on [temperature_scaling](https://github.com/gpleiss/temperature_scaling)*
+*For more detail of temperature scaling, pleae visit their [project page](https://geoffpleiss.com/nn_calibration)*
 
 ## Reference
 If you find this paper or code helpful, please cite this paper:
