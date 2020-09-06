@@ -20,10 +20,10 @@ If you find this paper or code helpful, please cite this paper:
 <br/> 
 <br/> 
 @inproceedings{liang2020imporved,  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; title={Improved Trainable Calibration Method for Neural Networks on Medical Imaging Classification},  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; author={Liang, Gongbo and Zhang, Yu and Wang, Xiaoqin and Jacobs, Nathan},  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; booktitle={British Machine Vision Conference (BMVC)},  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; year={2020} <br/>
+&nbsp;&nbsp;title={Improved Trainable Calibration Method for Neural Networks on Medical Imaging Classification},  
+&nbsp;&nbsp;author={Liang, Gongbo and Zhang, Yu and Wang, Xiaoqin and Jacobs, Nathan},  
+&nbsp;&nbsp;booktitle={British Machine Vision Conference (BMVC)},  
+&nbsp;&nbsp;year={2020} <br/>
 }
 
 ## Acknowledgements and Disclaimers
