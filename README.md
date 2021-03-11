@@ -24,7 +24,7 @@ If you find this paper or code helpful, please cite this paper:
   title={Improved Trainable Calibration Method for Neural Networks on Medical Imaging Classification},  
   author={Liang, Gongbo and Zhang, Yu and Wang, Xiaoqin and Jacobs, Nathan},  
   booktitle={British Machine Vision Conference (BMVC)},  
-  year={2020} <br/>
+  year={2020}
 }
 ```
 
