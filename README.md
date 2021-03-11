@@ -17,8 +17,6 @@ We recommended the following dependencies.
 
 ## Reference
 If you find this paper or code helpful, please cite this paper:
-<br/> 
-<br/> 
 ```
 @inproceedings{liang2020imporved,  
   title={Improved Trainable Calibration Method for Neural Networks on Medical Imaging Classification},  
